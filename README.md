@@ -11,3 +11,4 @@ What is missing:
  - Use it for a real dataset
  - Implement a train function
  - Maybe create a function to automatic add more layers
+ - Use a different activation function in the first two layers
