@@ -12,3 +12,4 @@ What is missing:
  - Implement a train function
  - Maybe create a function to automatic add more layers
  - Use a different activation function in the first two layers
+ - Plot the loss function curve
